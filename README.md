@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haider Irfan
 - 👀 I’m interested in Artificial Intelligence, App Development, Competitive Programming
 - 🌱 I’m currently learning .Net MAUI and Image Processing
-- 💞️ I’m looking to collaborate on projects on C++, Python, Kotlin, Java, .Net, C#.
+- 💞️ I’m looking to collaborate on projects on C++, Python, Kotlin, Java, .Net, C#, Oracle, Postgresql.
 - 📫 How to reach me https://www.linkedin.com/in/haider-irfan-125229232
 
 <!---
