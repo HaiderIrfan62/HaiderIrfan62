@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, App Development, Competitive Programming
 - 🌱 I’m currently learning .Net MAUI and Image Processing
 - 💞️ I’m looking to collaborate on projects on C++, Python, Kotlin, Java, .Net, C#, Oracle, Postgresql.
-- 📫 How to reach me https://www.linkedin.com/in/haider-irfan-125229232
+- 📫 How to reach me https://www.linkedin.com/in/haiderirfan62/
 
 <!---
 HaiderIrfan62/HaiderIrfan62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
